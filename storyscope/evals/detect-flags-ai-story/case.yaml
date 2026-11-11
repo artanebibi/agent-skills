@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: detect-flags-ai-story
+expected_outcome: |
+  A StoryScope-style report on lighthouse.md that rates it as leaning or strongly AI-typical,
+  backs that with narrative-level evidence quoted from the story (the narrator stating the
+  lesson, embodied emotion, weather mirroring mood, the acceptance ending, the single linear
+  thread), cites the paper's human vs. AI rates, and clearly says this is not proof that the
+  friend used AI.
+context:
+  scaffold_script: place-files.sh

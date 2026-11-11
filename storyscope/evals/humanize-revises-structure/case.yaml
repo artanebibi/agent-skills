@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: humanize-revises-structure
+expected_outcome: |
+  lighthouse-revised.md keeps Mara, Daniel, the lighthouse and the unsent letters but changes
+  the story's structure, not just its sentences: the closing lesson is gone, time is no longer
+  strictly linear or a subplot/outside event is added, and the ending is no longer a pure
+  internal acceptance. The reply lists the changes mapped to StoryScope features and gives a
+  before/after score.
+context:
+  scaffold_script: place-files.sh

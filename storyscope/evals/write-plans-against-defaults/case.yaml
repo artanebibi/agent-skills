@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: write-plans-against-defaults
+expected_outcome: |
+  story.md is a roughly 1,500-word story about the night-shift pharmacist that avoids the AI
+  defaults StoryScope identifies: no narrator-stated moral, not a single linear thread ending
+  in quiet acceptance, at least one real named reference, and emotions not conveyed mainly
+  through bodily sensations.
